@@ -1,6 +1,6 @@
-# 02_vue_calc
+# Crappy financial calulator
 
-> A Vue.js project
+I made to help with my Uni homework
 
 ## Build Setup
 
